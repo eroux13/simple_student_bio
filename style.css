@@ -1,0 +1,35 @@
+h1 {
+    background-color: rgb(58, 58,58);
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    padding: 30px 15px;
+}
+
+.float-left {
+    float: left;
+}
+
+p {
+    margin-left: 10px;
+}
+
+div {
+    margin-left: 40px;
+}
+
+.contact {
+    margin-left: 140px;
+}
+
+ul {
+    margin-left: 140px;
+}
+
+img {
+    padding-top: 10px;
+}
+
+a {
+    color: red;
+}
